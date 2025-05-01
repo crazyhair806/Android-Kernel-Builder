@@ -2,7 +2,7 @@
     "kernelSource": {
       "name": "moto Boston Kernel",
       "repo": "https://github.com/crazyhair806/android_device_motorola_genevn.git",
-      "branch": "12.1",
+      "branch": "android-12.1",
       "device": "boston"
     },
     "withKernelSU": true,
